@@ -9,12 +9,11 @@
 
 - 🔭 I’m currently working on **Audio player_APP**
 
-- 🌱 I’m currently learning **developing my skills with dart, flutter ,and learning a back-end technology**
+- 🌱 I’m currently learning **developing my skills with dart, flutter,and learning a back-end technology**
 
 - 💬 Ask me about **dart, flutter, android native**
 
-- 📫 How to reach me **omarabdullkhaleq@gmail.com
-- +201069191149**
+- 📫 How to reach me **omarabdullkhaleq@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PyImKAqDgqebOT4MHbEU0Oab8E6aF08h/view?usp=sharing](https://drive.google.com/file/d/1PyImKAqDgqebOT4MHbEU0Oab8E6aF08h/view?usp=sharing)
 
