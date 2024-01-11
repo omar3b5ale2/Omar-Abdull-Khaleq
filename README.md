@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Audio player_APP**
 
-- 🌱 I’m currently learning **developing my skills with dart, flutter and learning a back-end technology**
+- 🌱 I’m currently learning **developing my skills with dart, flutter ,and learning a back-end technology**
 
 - 💬 Ask me about **dart, flutter, android native**
 
